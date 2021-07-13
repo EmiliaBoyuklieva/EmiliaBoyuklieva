@@ -7,11 +7,10 @@
 
 
 
-- ![image](https://user-images.githubusercontent.com/87379875/125498984-cc50197a-6595-4e1f-8e07-229d79a066ec.png)
+- ![image](https://user-images.githubusercontent.com/87379875/125501520-c32d7422-97ff-4f4b-ad1d-3bb6fc4d4b7f.png)
 
-      - 🏫 Technical University of Sofia - Plovdiv branch
-      - 👩🏻‍💻 Software University
-      
+ >> - 🏫 Technical University of Sofia - Plovdiv branch
+ >> - 👩🏻‍💻 Software University
 
 
 
