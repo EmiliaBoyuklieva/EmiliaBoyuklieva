@@ -15,5 +15,5 @@
  >> - 👩🏻‍🎓  Student's path as a C# developer
  
 
-![alt text]https://medium.com/@chris.mckee/c-logo-for-stickers-stuff-bca39b31cba3 "C#")
+![alt text](https://medium.com/@chris.mckee/c-logo-for-stickers-stuff-bca39b31cba3 "C#")
 
