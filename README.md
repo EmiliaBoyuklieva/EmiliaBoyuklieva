@@ -15,5 +15,4 @@
  >> - 👩🏻‍🎓  Student's path as a C# developer
  
 
-![alt text](https://www.google.com/search?q=c%23+logo&tbm=isch&ved=2ahUKEwjU_IGR6ILyAhUVpRoKHSBsBMsQ2-cCegQIABAA&oq=c%23+logo&gs_lcp=CgNpbWcQAzICCAAyBAgAEEMyAggAMgQIABBDMgIIADICCAAyAggAMgIIADICCAAyAggAUIeBAViHgQFgs4QBaABwAHgAgAFjiAFjkgEBMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=OcH_YJT8IZXKaqDYkdgM&bih=754&biw=1536#imgrc=g4lD7YLBdtE1dM "C#")
 
