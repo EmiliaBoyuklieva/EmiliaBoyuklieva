@@ -15,5 +15,5 @@
  >> - 👩🏻‍🎓  Student's path as a C# developer
  
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]https://medium.com/@chris.mckee/c-logo-for-stickers-stuff-bca39b31cba3 "C#")
 
