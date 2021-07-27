@@ -10,7 +10,7 @@
 
 - ![image](https://user-images.githubusercontent.com/87379875/125501520-c32d7422-97ff-4f4b-ad1d-3bb6fc4d4b7f.png)
 
- >> - 🏫 [Technical University of Sofia - Plovdiv branch]([https://www.tu-plovdiv.bg/)
+ >> - 🏫 [Technical University of Sofia - Plovdiv branch](https://www.tu-plovdiv.bg/)
  >> - 👩🏻‍💻 [Software University](https://softuni.bg/) 
  >> - 👩🏻‍🎓  Student's path as a C# developer
  
