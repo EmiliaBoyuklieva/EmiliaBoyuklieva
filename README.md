@@ -13,6 +13,6 @@
  >> - 🏫 Technical University of Sofia - Plovdiv branch
  >> - 👩🏻‍💻 Software University ([@SoftUni](https://softuni.bg/)) | Student's path as a C# developer
  
-
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 
